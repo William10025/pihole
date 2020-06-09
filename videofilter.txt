@@ -1,10 +1,8 @@
-youtube.com
-twitch.tv
-(\.|^)twitch\.tv$
-(\.|^)ttvnw\.net$
+(\.|^)betterttv\.com$
+(\.|^)broadcastify\.com$
 (\.|^)googlevideo\.com$
 (\.|^)nightbot\.tv$
-(\.|^)broadcastify\.com$
-m.media-amazon.com
+(\.|^)twitch\.tv$
+(\.|^)ttvnw\.net$
 (\.|^)youtube\.com$
-(\.|^)betterttv\.com$
+m.media-amazon.com
