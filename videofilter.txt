@@ -4,6 +4,4 @@
 (\.|^)nightbot\.tv$
 (\.|^)twitch\.tv$
 (\.|^)ttvnw\.net$
-(\.|^)youtube\.com$
 m.media-amazon.com
-address=/youtube.com/0.0.0.0
