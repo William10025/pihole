@@ -1,4 +1,4 @@
-(\.|^)betterttv\.com$
+betterttv.com
 (\.|^)broadcastify\.com$
 (\.|^)googlevideo\.com$
 (\.|^)nightbot\.tv$
