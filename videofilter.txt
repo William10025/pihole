@@ -4,4 +4,5 @@ betterttv.com
 (\.|^)nightbot\.tv$
 (\.|^)twitch\.tv$
 (\.|^)ttvnw\.net$
+(\.|^)apple\.com$
 m.media-amazon.com
