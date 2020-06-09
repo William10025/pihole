@@ -6,4 +6,4 @@ betterttv.com
 (\.|^)ttvnw\.net$
 sony.com
 m.media-amazon.com
-samsung.com
+samsung.com$
