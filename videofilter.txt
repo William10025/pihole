@@ -4,6 +4,6 @@ betterttv.com
 (\.|^)nightbot\.tv$
 (\.|^)twitch\.tv$
 (\.|^)ttvnw\.net$
-sony.com
+(\.|^)sony\.com
 m.media-amazon.com
 samsung.com$
