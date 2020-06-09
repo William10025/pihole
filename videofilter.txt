@@ -7,3 +7,4 @@ twitch.tv
 (\.|^)broadcastify\.com$
 m.media-amazon.com
 (\.|^)youtube\.com$
+(\.|^)betterttv\.com$
