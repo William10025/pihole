@@ -6,3 +6,5 @@
 (\.|^)ttvnw\.net$
 (\.|^)youtube\.com$
 m.media-amazon.com
+youtube.com
+www.youtube.com
