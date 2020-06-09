@@ -1,2 +1,9 @@
 youtube.com
 twitch.tv
+(\.|^)twitch\.tv$
+(\.|^)ttvnw\.net$
+(\.|^)googlevideo\.com$
+(\.|^)nightbot\.tv$
+(\.|^)broadcastify\.com$
+m.media-amazon.com
+(\.|^)youtube\.com$
